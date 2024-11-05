@@ -1,0 +1,30 @@
+.top-container{
+    background-image: url('./Assets/background.jpeg');
+    height: 90vh;
+    opacity: 0.5;
+}
+h1{
+    margin-top: 100px;
+    opacity: 1;
+    font-weight: bolder;
+    color: black;
+}
+.bi{
+    border-radius: 500px;
+}
+h2{
+    color: grey;
+}
+hr{
+    order: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    color: grey;
+}
+.bd-placeholder-img{
+    align-items: center;
+}
+.footer{
+    background-color: grey;
+}
